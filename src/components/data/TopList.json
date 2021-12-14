@@ -1,0 +1,37 @@
+[
+  {
+    "bier": "Viechtacher Zwickl",
+    "herkunft": "Viechtach",
+    "bewertungInt": 98,
+    "votes": 61,
+    "imgUrl": "https://www.viechtacher-brauerei.de/media/image/4e/54/95/Viechtacher-Zwickl.jpg"
+  },
+  {
+    "bier": "Polsterbräu Weissbier",
+    "herkunft": "Herrenberg",
+    "bewertungInt": 98,
+    "votes": 135,
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI-28RFauyxq0iymPL2V01Ngq5xEYodqwKYA&usqp=CAU"
+  },
+  {
+    "bier": "Gloaner Pfahlbock",
+    "herkunft": "Viechtach",
+    "bewertungInt": 98,
+    "votes": 54,
+    "imgUrl": "https://www.biermap24.de/images/bierlogos-140px-breit/gloaner-pfahlbock-min.jpg"
+  },
+  {
+    "bier": "Viechtacher Weissbier Original",
+    "herkunft": "Viechtach",
+    "bewertungInt": 98,
+    "votes": 95,
+    "imgUrl": "https://www.viechtacher-brauerei.de/media/image/19/05/43/Viechtacher-Weissbier.jpg"
+  },
+  {
+    "bier": "Wolters Mai-Bock",
+    "herkunft": "Braunschweig",
+    "bewertungInt": 97,
+    "votes": 57,
+    "imgUrl": "https://www.biermap24.de/images/bierlogos-140px-breit/wolters-maibock-min.jpg"
+  }
+]
