@@ -50,15 +50,15 @@ const BasicSelect = ({ brewName, setBrewName, location, setLocation }) => {
 
 const BootstrapInput = styled(InputBase)(({ theme }) => ({
   "label + &": {
-    marginTop: theme.spacing(3),
+    marginTop: theme.spacing(2),
   },
   "& .MuiInputBase-input": {
     borderRadius: 4,
     position: "relative",
     backgroundColor: theme.palette.background.paper,
-    border: "1px solid #ced4da",
+    border: "2px solid #ced4da",
     fontSize: 16,
-    padding: "10px 70px 10px 10px",
+    padding: "10px 60px 10px 10px",
     transition: theme.transitions.create(["border-color", "box-shadow"]),
     // Use the system font instead of the default Roboto font.
     fontFamily: ['"Helvetica Neue"', "Arial", "sans-serif"].join(","),

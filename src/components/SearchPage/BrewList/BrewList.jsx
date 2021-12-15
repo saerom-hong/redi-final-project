@@ -12,7 +12,7 @@ const BrewList = ({ list }) => {
       rowSpacing={1}
     >
       {list.map(({ title, ort }, i) => (
-        <Grid item xs="auto" key={i}>
+        <Grid item key={i}>
           <BrewsCard id={i + 1} title={title} ort={ort} />
         </Grid>
       ))}
