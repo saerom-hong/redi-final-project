@@ -8,31 +8,24 @@ This is a final project at Redi School's 2021 fall semester React Course. The go
 
 ## ✍️ Project Planning
 
----
-
 1. **Create user story**
-   ![usestory](./userstory.png)
-2. **Features**
-   ![feature](./feature.png)
-3. **Wireframing**
-   ![wireframe](./wireframe.png)
+   <img src="./images/userstory.png" width=800>
+2. **Features** <br>
+   <img src="./images/feature.png" width=800>
+3. **Wireframing** <br>
+   <img src="./images/wireframe.png" width=600>
    <br>
    <br>
 
 ## 📽 Project Overview
 
----
-
-![overview1](./overview1.png)
-![overview2](./overview2.png)
-![overview3](./overview3.png)
-
+<img src="./images/overview1.png">
+<img src="./images/overview2.png">
+<img src="./images/overview3.png">
 <br>
 <br>
 
 ## 🔧Technologies
-
----
 
 - framework: React.js
 - data fetching: RESTful API
