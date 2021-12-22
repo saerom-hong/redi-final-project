@@ -35,6 +35,12 @@ This is a final project at Redi School's 2021 fall semester React Course. The go
 <br>
 <br>
 
+## 🔥 Further Task for improvement
+
+[ ] refacture Brew/Beer Card Component.
+[ ] refacture DisplayCard function to make more reusable.
+[ ] add 'heart' or 'star' button on the brewery cards so the user can save their favorite brewerys on the list. 
+
 ## 🤖 Setup
 
 to install dependencies
