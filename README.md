@@ -14,8 +14,8 @@ This is a final project at Redi School's 2021 fall semester React Course. The go
    <img src="./images/feature.png" width=800>
 3. **Wireframing** <br>
    <img src="./images/wireframe.png" width=600>
-   <br>
-   <br>
+<br>
+<br>
 
 ## 📽 Project Overview
 
@@ -31,15 +31,16 @@ This is a final project at Redi School's 2021 fall semester React Course. The go
 - data fetching: RESTful API
 - routing: React Router
 - styling: Material Ui
-
 <br>
 <br>
 
 ## 🔥 Further Task for improvement
 
-[ ] refacture Brew/Beer Card Component.
-[ ] refacture DisplayCard function to make more reusable.
-[ ] add 'heart' or 'star' button on the brewery cards so the user can save their favorite brewerys on the list. 
+- refacture Brew/Beer Card Component.
+- refacture DisplayCard function to make more reusable.
+- add 'heart' or 'star' button on the brewery cards so the user can save their favorite brewerys on the list. 
+<br>
+<br>
 
 ## 🤖 Setup
 
