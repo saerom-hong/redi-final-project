@@ -2,7 +2,7 @@
 
 # Mein Bier 🍻
 
-This is a final project at Redi School's 2021 fall semester React Course. The goal is creating react app that displays top 5 german beers and searchs for the breweries based on the states in Germany. It contains the concepts that we've been learning this semester including hooks, routing, local & global state management, etc.
+This is the final project at Redi School's 2021 fall semester React Course. The goal is creating a react app that displays the top 5 german beers and searches for breweries by german federal states. It contains the concepts that we've been learning this semester including hooks, routing, local & global state management, etc.
 <br>
 <br>
 
@@ -38,7 +38,7 @@ This is a final project at Redi School's 2021 fall semester React Course. The go
 
 - refacture Brew/Beer Card Component.
 - refacture DisplayCard function to make more reusable.
-- add 'heart' or 'star' button on the brewery cards so the user can save their favorite brewerys on the list. 
+- add 'heart' or 'star' button on the brewery cards so the user can save their favorite breweries on the list. 
 <br>
 <br>
 
