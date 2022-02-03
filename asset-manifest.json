@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/redi-final-project/static/js/main.1e0b1f46.chunk.js",
+    "main.js.map": "/redi-final-project/static/js/main.1e0b1f46.chunk.js.map",
+    "runtime-main.js": "/redi-final-project/static/js/runtime-main.ed67d847.js",
+    "runtime-main.js.map": "/redi-final-project/static/js/runtime-main.ed67d847.js.map",
+    "static/js/2.557996d5.chunk.js": "/redi-final-project/static/js/2.557996d5.chunk.js",
+    "static/js/2.557996d5.chunk.js.map": "/redi-final-project/static/js/2.557996d5.chunk.js.map",
+    "index.html": "/redi-final-project/index.html",
+    "static/js/2.557996d5.chunk.js.LICENSE.txt": "/redi-final-project/static/js/2.557996d5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed67d847.js",
+    "static/js/2.557996d5.chunk.js",
+    "static/js/main.1e0b1f46.chunk.js"
+  ]
+}
