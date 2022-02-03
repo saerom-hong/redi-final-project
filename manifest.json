@@ -1,0 +1,6 @@
+{
+  "short_name": "Mein Bier",
+  "name": "Mein Bier",
+  "start_url": ".",
+  "display": "standalone"
+}
